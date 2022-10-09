@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>test</title>
+</head>
+<body>
+
+<? php 
+$phrase = "et une balise de fin";
+Echo strupperCase $phrase;
+
+
+ ?>
+
+</body>
+</html>
